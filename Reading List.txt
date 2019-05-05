@@ -1,0 +1,531 @@
+Foreword:
+	Every page number in this file references the local page number, and not the global one.
+	I.e. if the pdf reader reads page 23 and the page itself reads 2, then 2 will be the page number.
+	Pages: Say how many pages the PDF or book has in total.
+
+Finished:
+
+The Mythical Man Month: Essays on Software Engineering, 20th Anniversary Edition (1975-1995):
+	Pages:
+		337
+	Description:
+		A compilation of essays on what experienced software engineers and programmers have
+		learned from their successes and failures over many years.
+	Notes:
+		Times read: 1
+
+The Science Of Programming (1981):
+	Pages:
+		379
+	Description:
+		This is the very first book to discuss the theory and principles of
+		computer programming on the basis of the idea that a proof of correctness and a
+		program should be developed hand in hand. It is built around the method first
+		proposed by Dijkstra in his monograph The Discipline of Programming (1976),
+		involving a "calculus for the derivation of programs."
+	Notes:
+		Times read: 1
+		Very heavy book. Lots of boolean logic and proofs.
+		Re-read after reading: A Discipline of Programming (?)
+
+The Tao of Programming (1987):
+	Pages:
+		172
+	Description:
+		The themes of the book espouse many hacker ideals – managers should leave programmers to their work;
+		code should be small, elegant, and maintainable; corporate wisdom is more often than not an oxymoron; and so on.
+	Notes:
+		Times read: 1
+
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, 3rd Edition (2014):
+	Pages:
+		191
+	Description:
+		Since Don’t Make Me Think was first published in 2000, hundreds of thousands of Web designers and 
+		developers have relied on usability guru Steve Krug’s guide to help them understand the principles of 
+		intuitive navigation and information design.
+		Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject.
+	Notes:
+		Times read: 1
+
+
+
+Currently Reading:
+
+Structure and Interpretation of Computer Programs, Second Edition, (1979 - 2016):
+	Pages:
+		883
+	Description:
+		MIT's introduction to Computer Science. Its a very divisive with people either loving or hating it.
+		The book teaches concepts and ideas about programming along with
+		Lisp, which is no longer a relevant language and very different to those used in modern day programming.
+	Notes:
+	MIT course: https://www.youtube.com/playlist?list=ECE18841CABEA24090
+	Book Resources: https://mitpress.mit.edu/sites/default/files/sicp/index.html
+
+
+
+
+Readlist:
+
+The Art of Computer Programming by Donald Knuth (essentially the holy grail of Computer Science literature) (1968):
+	Pages:
+		Vol 1: 666
+		Vol 2: 774
+		Vol 3: 791
+		Vol 4: 1081 (Minus a few hundred)
+	Description:
+		Bill Gates said that if anyone can read every volume in TAOCP from cover to cover, then they should
+		definitely send him their CV/Resume.
+
+A Discipline of Programming (1976):
+	Pages:
+		232
+	Description:
+		Executional abstraction; The role of programming languages; States and their characterization; 
+		The characterization of semantics; The semantic characterization of a programming language; 
+		Two theorems; On the design of properly terminating; Euclid's algorithm revisited; 
+		The formal treatment of some small examples; The linear search theorem; The problem of the next permutation.
+
+The UNIX Programming Environment (1984):
+	Pages:
+		369
+	Description:
+		An excellent introductory *nix book. Written by Brian Kernighan (of K&R)
+		and Rob Pike (Plan9, Golang), both of whom were part of the Unix team at Bell Labs.
+
+The C Programming Language, Second Edition (1988):
+	Pages:
+		288
+	Description:
+		Also known as K&R because it was written by the founders of C, Brian Kernighan and Dennis Ritchie.
+
+Design Patterns: Elements of Reusable Object-Oriented Software (1994):
+	Pages:
+		417
+	Description:
+		Design patterns and principles designed to help object-oriented software.
+
+The Art of Prolog (1994):
+	Pages:
+		553
+	Description:
+		The origins of this book lie in graduate student courses aimed at teaching advanced Prolog programming. 
+		A wealth of techniques has emerged in the fifteen years since the inception of Prolog as a programming language. 
+		Our intention in this book has been to make accessible the programming techniques that kindled our own 
+		excitement, imagination, and involvement in this area.
+
+Concrete Mathematics, A Foundation For Computer Science (1994):
+	Pages:
+		670
+	Description:
+		Almost everything a computer scientist would want to know when it comes to the field of hard mathamatics.
+
+The Seasoned Schemer (1995):
+	Pages:
+		216
+	Description:
+		The book is a sequel to The Little LISPer, now called The Little Schemer.
+		It covers higher-order functions in more depth than The Little LISPer/Schemer and introduces set! and continuations.
+
+The Algorithm Design Manual (1997):
+	Pages:
+		738
+	Description:
+		The reader-friendly Algorithm Design Manual provides straightforward access to
+		combinatorial algorithms technology, stressing design over analysis.
+
+Purely Functional Data Structures (1999)
+	Pages:
+		230
+	Description:
+		This book describes data structures from the point of view of functional languages, with examples, 
+		and presents design techniques that allow programmers to develop their own functional data structures. 
+
+Programming Pearls, 2nd Edition (1999)
+	Pages:
+		237
+	Description:
+		The essays in this book present programs that go beyond solid engineering techniques to be creative and 
+		clever solutions to computer problems. The programs are fun and teach important programming 
+		tecniques and fundamental design principles.
+
+The Cathedral and the Bazaar (1999):
+	Pages:
+		250
+	Description:
+		Eric S. Raymond's book on Closed-house development (cathedral) vs open-source, distributed development (bazaar),
+		and how the latter is much more effective.
+
+The Pragmatic Programmer (1999):
+	Pages:
+		352
+	Description:
+		Cuts through the increasing specialization and technicalities of
+		modern software development to examine the core process—what do you do, as
+		an individual and as a team, if you want to create software that’s easy to work with and good for your users.
+
+The Hidden Language of Computer Hardware and Software (1999):
+	Pages:
+		400
+	Description:
+		What do flashlights, the British invasion, black cats, and seesaws have to do with computers?
+		In CODE, they show us the ingenious ways we manipulate language and invent
+		new means of communicating with each other. And through CODE, we see how this
+		ingenuity and our very human compulsion to communicate have driven the technological
+		innovations of the past two centuries.
+
+The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography (1999):
+	Pages:
+		418
+	Description:
+		In his first book since the bestselling Fermat’s Enigma, Simon Singh offers the first sweeping 
+		history of encryption, tracing its evolution and revealing the dramatic effects codes have had 
+		on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to 
+		the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) 
+		logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most 
+		powerful intellectual weapon ever known: secrecy.
+
+Gödel, Escher, Bach: An Eternal Golden Braid (1999):
+	Pages:
+		821
+	Description:
+		By exploring common themes in the lives and works of logician Kurt Gödel, artist M. C. Escher, and 
+		composer Johann Sebastian Bach, the book expounds concepts fundamental to mathematics, symmetry, and intelligence. 
+		Through illustration and analysis, the book discusses how, through self-reference and formal rules, systems 
+		can acquire meaning despite being made of "meaningless" elements. 
+		It also discusses what it means to communicate, how knowledge can be represented and stored, the methods 
+		and limitations of symbolic representation, and even the fundamental notion of "meaning" itself. 
+
+The Soul of A New Machine (2000)
+	Pages:
+		255
+	Description:
+		The Soul of a New Machine is a non-fiction book written by Tracy Kidder and published in 1981. 
+		It chronicles the experiences of a computer engineering team racing to design a next-generation computer 
+		at a blistering pace under tremendous pressure. The machine was launched in 1980 as the Data General Eclipse MV/8000.
+
+Free Software, Free Society (2002)
+	Pages:
+		230
+	Description:
+		This collection includes historical writings such as The GNU Manifesto, which defined and launched the 
+		activist Free Software Movement, along with new writings on hot topics in copyright, patent law, and 
+		the controversial issue of "trusted computing."
+
+Hacker's Delight (2002):
+	Pages:
+		470
+	Description:
+		It discusses a variety of programming algorithms for common tasks involving integer types, often
+		with the aim of performing the minimum number of operations or replacing slow operations by faster ones.
+
+Database Management Systems, 3rd Edition (2002):
+	Pages:
+		1098
+	Description:
+		Database Management Systems provides comprehensive and up-to-date coverage of the fundamentals of database systems. 
+		Coherent explanations and practical examples have made this one of the leading texts in the field.
+
+The Art of Unix Programming (2003):
+	Pages:
+		558
+	Description:
+		This text reveals the software design secrets of the original Unix designers,
+		showing how they produce software that is fast, portable, reuseable, modular and long-lived.
+
+Advanced UNIX Programming, 2nd Edition (2004):
+	Pages:
+		735
+	Description:
+		Recommended as a follow on book from The UNIX Programming Environment.
+		Contains information on over 300 syscalls.
+
+Concepts, Techniques, and Models of Computer Programming (2004):
+	Pages:
+		931
+	Description:
+		Using a carefully selected progression of subsets of the Oz programming language, the book explains
+		the most important programming concepts, techniques, and models (paradigms).
+
+Code Complete (2004):
+	Pages:
+		952
+	Description:
+		A compendium of software construction techniques, from naming variables to deciding when to write a subroutine.
+
+The Elements of Computing System (2005)
+	Pages:
+		410
+	Description:
+		This book is based on an abstraction-implementation paradigm; each chapter presents a key hardware or 
+		software abstraction, a proposed implementation that makes it concrete and an actual project. 
+		The books also provides a companion web site that provides the toold and materials necessary to
+		build the hardware and software.
+	Notes:
+		Resource: https://www.nand2tetris.org/
+
+Compilers: Principles, Techniques and Tools (a.k.a The Dragon Book), Second Edition (2006):
+	Pages:
+		1038
+	Description:
+		This book is loaded with all the theory and concepts needed to design, implement and optimise a compiler.
+		It's the go-to compiler book.
+
+Operating Systems: Design and Implementation (a.k.a the MINIX book), Third Edition (2006):
+	Pages:
+		1099
+	Description:
+		This is one of the books Linus Torvalds used to write the original Linux kernel.
+		This also contains over 500 pages of the entire MINIX source code at the back as an appendix, and
+		if you're lucky, a MINIX installation CD with instructions.
+
+JavaScript: The Good Parts (2008):
+	Pages:
+		172
+	Description:
+		Most programming languages contain good and bad parts, but JavaScript has more than its share of the 
+		bad, having been developed and released in a hurry before it could be refined. 
+		This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's 
+		more reliable, readable, and maintainable than the language as a whole--a subset you can use to 
+		create truly extensible and efficient code
+
+Clean Code: A Handbook of Agile Software Craftsmanship (2008):
+	Pages:
+		462
+	Description:
+		Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees.
+		Every year, countless hours and significant resources are lost because of poorly written code.
+		But it doesn’t have to be that way.
+
+Real World Haskell (2008):
+	Pages:
+		712
+	Description:
+		This easy-to-use, fast-moving tutorial introduces you to functional programming with Haskell.
+		You'll learn how to use Haskell in a variety of practical ways, from short scripts to large and demanding applications.
+
+Language Implementation Patterns: Techniques for Implementing Domain-Specific Languages (2009):
+	Pages:
+		389
+	Description:
+		Knowing how to create domain-specific languages (DSLs) can give you a huge productivity boost. 
+		Instead of writing code in a general-purpose programming language, you can first build a custom 
+		language tailored to make you efficient in a particular domain.
+
+Artificial Intelligence: A Modern Approach, Third Edition (2009):
+	Pages:
+		1152
+	Description:
+		It is used in over 1350 universities worldwide and has been called
+		"the most popular artificial intelligence textbook in the world".
+		It is considered the standard text in the field of artificial intelligence.
+
+Introduction to Algorithms (2009):
+	Pages:
+		1313
+	Description:
+		The book covers a broad range of algorithms in depth, yet makes their design and
+		analysis accessible to all levels of readers.
+
+Programming languages: principles and paradigm (2010):
+	Pages:
+		450
+	Description:
+		Programming Languages is a self-contained approach to the topic, and differentiates between the 
+		design, implementation and pragmatic aspects of programming languages overall.
+		The main programming paradigms are presented, in a straightforward way.
+
+Land of Lisp (2010):
+	Pages:
+		508
+	Description:
+		Land of Lisp brings the language into the real world, teaching Lisp by showing readers how to write
+		several complete Lisp-based games, including a text adventure, an evolution simulation, and a robot battle.
+
+Hackers: Heroes of the Computer Revolution (2010)
+	Pages:
+		520
+	Description:
+		This 25th anniversary edition of Steven Levy's classic book traces the exploits of the computer 
+		revolution's original hackers -- those brilliant and eccentric nerds from the late 1950s through 
+		the early '80s who took risks, bent the rules, and pushed the world in a radical new direction. 
+		With updated material from noteworthy hackers such as Bill Gates, Mark Zukerberg, Richard Stallman, and 
+		Steve Wozniak, Hackers is a fascinating story that begins in early computer research labs and 
+		leads to the first home computers. 
+
+Learn You a Haskell for Great Good! (2011):
+	Pages:
+		404
+	Description:
+		It's all in the name: Learn You a Haskell for Great Good! is a hilarious, illustrated guide
+		to this complex functional language. Packed with the author's original artwork, pop culture references, and most
+		importantly, useful example code, this book teaches functional fundamentals in a way you never thought possible.
+
+Prolog Programming for Artificial Intelligence (2011):
+	Pages:
+		697
+	Description:
+		Divided into two parts, the first part of the book introduces the programming language Prolog, while the 
+		second part teaches Artificial Intelligence using Prolog as a tool for the implementation of AI techniques. 
+		Prolog has its roots in logic, however the main aim of this book is to teach Prolog as a practical programming tool.
+
+Algorithms, Fourth Edition (2011):
+	Pages:
+		969
+	Description:
+		Self explanitory, goes into great detail about all kinds of algorithms.
+
+Introduction to the Theory of Computation, 3rd Edition (2012):
+	Pages:
+		482
+	Description:
+		This highly anticipated revision builds upon the strengths of the previous edition. 
+		Sipser's candid, crystal-clear style allows students at every level to understand and 
+		enjoy this field. His innovative "proof idea" sections explain profound concepts in plain English. 
+		The new edition incorporates many improvements students and professors have suggested over the years, and 
+		offers updated, classroom-tested problem sets at the end of each chapter.
+
+Peopleware: Productive Projects and Teams, 3rd Edition (2013):
+	Pages:
+		272
+	Description:
+		Two of the computer industry's most popular authors and lecturers return with a new edition of the 
+		software management book that started a revolution.With humor and wisdom drawn from years of 
+		management and consulting experience, DeMarco and Lister demonstrate that the major issues of 
+		software development are human, not technical -- and that managers ignore them at their peril.
+
+Computer Organization & Design: The Hardware/Software Interface (2013):
+	Pages:
+		793
+	Description:
+		The performance of software systems is dramatically affected by how well software designers understand 
+		the basic hardware technologies at work in a system. Similarly, hardware designers must understand the 
+		far-reaching effects their design decisions have on software applications. For readers in either 
+		category, this classic introduction to the field provides a look deep into the computer. 
+		It demonstrates the relationships between the software and hardware and focuses on the foundational 
+		concepts that are the basis for current computer design.
+
+Computer Graphics: Principles and Practice (2013):
+	Pages:
+		1263
+	Description:
+		By uniquely combining concepts and practical applications in computer graphics, four well-known authors 
+		provide here the most comprehensive, authoritative, and up-to-date coverage of the field. 
+		The important algorithms in 2D and 3D graphics are detailed for easy implementation, including a close 
+		look at the more subtle special cases. There is also a thorough presentation of the mathematical
+		principles of geometric transformations and viewing.
+
+The C++ Programming Language (2013):
+	Pages:
+		1366
+	Description:
+		 Written by Bjarne Stroustrup, the creator of C++, this is the world's most trusted and widely read book on C++.
+
+Superintelligence: Paths, Dangers, Strategies (2014):
+	Pages:
+		323
+	Description:
+		Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? 
+		Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the 
+		future of humanity and intelligent life.
+
+The Design of Everyday Things: Revised and Expanded Edition (2014):
+	Pages:
+		369
+	Description:
+		Anyone who designs anything to be used by humans -- from physical objects to computer 
+		programs to conceptual tools -- must read this book, and it is an equally tremendous read for 
+		anyone who has to use anything created by another human. It could forever change how you experience 
+		and interact with your physical surroundings, open your eyes to the perversity of bad design and the 
+		desirability of good design, and raise your expectations about how things should be designed.
+
+Modern Operating Systems (2014):
+	Pages:
+		1137
+	Description:
+		For software development professionals and computer science students, Modern Operating Systems 
+		gives a solid conceptual overview of operating system design, including detailed case studies of 
+		Unix/Linux and Windows 2000.
+
+Cracking the Coding Interview (2015):
+	Pages:
+		712
+	Description:
+		Now in the 5th edition, Cracking the Coding Interview gives you the interview preparation you need to 
+		get the top software developer jobs. This is a deeply technical book and focuses on the software 
+		engineering skills to ace your interview. The book is over 500 pages and includes 150 programming 
+		interview questions and answers, as well as other advice.
+
+Computer Systems: A Programmer's Perspective (2015):
+	Pages:
+		1120
+	Description:
+		For Computer Organization and Architecture and Computer Systems courses in CS and EE and ECE departments. 
+		Developed out of an introductory course at Carnegie Mellon University, this text explains the important 
+		and enduring concepts underlying all computer systems, and shows the concrete ways that these ideas 
+		affect the correctness, performance, and utility of application programs. The text's concrete and 
+		hands-on approach will help students understand what is going on "under the hood" of a computer system.
+
+Algorithms to Live By: The Computer Science of Human Decisions (2016):
+	Pages:
+		368
+	Description:
+		A fascinating exploration of how insights from computer algorithms can be applied to our everyday lives, 
+		helping to solve common decision-making problems and illuminate the workings of the human mind
+	Notes:
+		To be downloaded
+
+Computer Networking: A Top-Down Approach, 7th Edition (2017):
+	Pages:
+		855
+	Description:
+		he text works its way from the application layer down toward the physical layer, motivating students 
+		by exposing them to important concepts early in their study of networking. Focusing on the Internet and 
+		the fundamentally important issues of networking, this text provides an excellent foundation for 
+		students in computer science and electrical engineering, without requiring extensive knowledge of 
+		programming or mathematics.
+
+Effective Java (2017):
+	Pages:
+		911
+	Description:
+		The Definitive Guide to Java Platform Best Practices–Updated for Java 7, 8, and 9.
+
+Mathematics for Computer Science (2017)
+	Pages:
+		1006
+	Description:
+		his book covers elementary discrete mathematics for computer science and engineering. 
+		It emphasizes mathematical definitions and proofs as well as applicable methods. 
+		Topics include formal logic notation, proof methods; induction, well-ordering; sets, relations; 
+		elementary graph theory; integer congruences; asymptotic notation and growth of functions; 
+		permutations and combinations, counting principles; discrete probability. 
+		Further selected topics may also be covered, such as recursive definition and structural induction; 
+		state machines and invariants; recurrences; generating functions.
+	Notes:
+		Resources: https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+
+Refactoring: Improving the Design of Existing Code (2018)
+	Pages:
+		445
+	Description:
+		Explains what refactoring is; why you should refactor; how to recognize code that needs refactoring; 
+		and how to actually do it successfully, no matter what language you use.
+
+Game Engine Design, Third Edition (2018):
+	Pages:
+		1240
+	Description:
+		Written by the lead programmer of Naughty Dog.
+		The bible for Game Engine Design, as it goes through every part of what goes into making a game engines, and how
+		they are different from video games.
+
+
+
+
+Unsorted:
+The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
+The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity
+Head First Design Patterns
+
