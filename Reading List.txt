@@ -1,7 +1,6 @@
 Foreword:
-	Every page number in this file references the local page number, and not the global one.
-	I.e. if the pdf reader reads page 23 and the page itself reads 2, then 2 will be the page number.
-	Pages: Say how many pages the PDF or book has in total.
+	Page will be numbered as the PDF page number with the actual page number in parentheses.
+		Example: 101(87)
 
 Finished:
 
@@ -53,15 +52,16 @@ Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, 3rd Ed
 Currently Reading:
 
 Structure and Interpretation of Computer Programs, Second Edition, (1979 - 2016):
-	Pages:
+	Pages: 56(28)
 		883
 	Description:
 		MIT's introduction to Computer Science. Its a very divisive with people either loving or hating it.
 		The book teaches concepts and ideas about programming along with
 		Lisp, which is no longer a relevant language and very different to those used in modern day programming.
 	Notes:
-	MIT course: https://www.youtube.com/playlist?list=ECE18841CABEA24090
-	Book Resources: https://mitpress.mit.edu/sites/default/files/sicp/index.html
+		Exercises page: 872
+		MIT course: https://www.youtube.com/playlist?list=ECE18841CABEA24090
+		Book Resources: https://mitpress.mit.edu/sites/default/files/sicp/index.html
 
 
 
